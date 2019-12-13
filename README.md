@@ -1,5 +1,6 @@
 # DI_Practica4
-Tiendecita CRUD
+Tiendecita CRUD.
+
 En esta práctica, vamos a terminar de conectar la aplicación “Tiendecita” con la base de datos y realizar todas las operaciones CRUD.
 Debemos realizar las operaciones de alta, modificación, baja y consulta para los “Artículos” y las de alta y consulta para los “Tickets”. 
 Hay que tener cuidado en el alta de los Tickets, donde hay involucrados campos FK.
